@@ -26,7 +26,7 @@ public class LifeCycleTestServlet extends HttpServlet {
         *  */
         System.out.println("xml 매핑 service 메소드 호출 : " + serviceCount++);
     }
-
+`
     @Override
     public void destroy() {
         /* 필기.
