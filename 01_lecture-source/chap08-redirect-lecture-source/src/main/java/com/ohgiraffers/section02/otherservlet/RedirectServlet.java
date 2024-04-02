@@ -49,5 +49,11 @@ public class RedirectServlet extends HttpServlet {
         *   사용할 수 없는 것이다.
         *  */
 
+        /* 필기.
+        *   그러면 redirect 할 때 값을 유지해서
+        *   공유하면서 사용하는 방법은 뭘까?
+        *   - 쿠키 , 세션
+        *  */
+
     }
 }
