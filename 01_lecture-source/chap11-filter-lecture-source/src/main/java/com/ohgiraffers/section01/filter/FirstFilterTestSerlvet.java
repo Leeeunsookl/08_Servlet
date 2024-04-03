@@ -16,7 +16,7 @@ public class FirstFilterTestSerlvet extends HttpServlet {
 
         System.out.println("doGet Servlet 요청 확인...");
 
-        resp.setContentType("text/html; charset=UTF-8");
+
 
         PrintWriter out = resp.getWriter();
         out.println("<!doctype html>");
